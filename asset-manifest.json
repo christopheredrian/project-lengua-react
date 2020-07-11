@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-lengua-react/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/project-lengua-react/static/js/main.8a2c7b83.chunk.js",
+    "main.js.map": "/project-lengua-react/static/js/main.8a2c7b83.chunk.js.map",
+    "runtime-main.js": "/project-lengua-react/static/js/runtime-main.e2e1757e.js",
+    "runtime-main.js.map": "/project-lengua-react/static/js/runtime-main.e2e1757e.js.map",
+    "static/css/2.d811125f.chunk.css": "/project-lengua-react/static/css/2.d811125f.chunk.css",
+    "static/js/2.60b9f438.chunk.js": "/project-lengua-react/static/js/2.60b9f438.chunk.js",
+    "static/js/2.60b9f438.chunk.js.map": "/project-lengua-react/static/js/2.60b9f438.chunk.js.map",
+    "index.html": "/project-lengua-react/index.html",
+    "precache-manifest.f9c716233c52a60857145b78bfe5f90e.js": "/project-lengua-react/precache-manifest.f9c716233c52a60857145b78bfe5f90e.js",
+    "service-worker.js": "/project-lengua-react/service-worker.js",
+    "static/css/2.d811125f.chunk.css.map": "/project-lengua-react/static/css/2.d811125f.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/project-lengua-react/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.60b9f438.chunk.js.LICENSE.txt": "/project-lengua-react/static/js/2.60b9f438.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2e1757e.js",
+    "static/css/2.d811125f.chunk.css",
+    "static/js/2.60b9f438.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.8a2c7b83.chunk.js"
+  ]
+}
